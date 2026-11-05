@@ -1,0 +1,78 @@
+{
+  "features": [
+    "height_cm",
+    "weight_kg",
+    "bust_band",
+    "cup_num",
+    "body_type",
+    "category",
+    "size",
+    "age",
+    "item_small",
+    "item_large",
+    "item_n",
+    "size_diff"
+  ],
+  "categories": {
+    "body_type": [
+      "apple",
+      "athletic",
+      "full bust",
+      "hourglass",
+      "pear",
+      "petite",
+      "straight & narrow"
+    ],
+    "category": [
+      "blazer",
+      "blouse",
+      "coat",
+      "dress",
+      "gown",
+      "jacket",
+      "jumpsuit",
+      "maxi",
+      "mini",
+      "other",
+      "romper",
+      "sheath",
+      "shift",
+      "shirtdress",
+      "skirt",
+      "sweater",
+      "top"
+    ]
+  },
+  "prior_small": 0.13380022115739035,
+  "prior_large": 0.1276758626555899,
+  "T": 1.0166217453645827,
+  "log_prior": [
+    -2.011407478394081,
+    -0.3031017927185327,
+    -2.058260549818897
+  ],
+  "t_all": 0.8359194875565932,
+  "t_bk": {
+    "hourglass_작음": 0.9411399118089095,
+    "hourglass_맞음": 0.390785570813006,
+    "hourglass_큼": 0.9410657936377905,
+    "athletic_작음": 0.9380933881385921,
+    "athletic_맞음": 0.3817874143196158,
+    "athletic_큼": 0.9437375698121091,
+    "pear_작음": 0.9383867413522229,
+    "pear_맞음": 0.3877033616526545,
+    "pear_큼": 0.9348453610840767,
+    "petite_작음": 0.9461840061803145,
+    "petite_맞음": 0.38970238089448217,
+    "petite_큼": 0.9434319368460954,
+    "full bust_작음": 0.9185817163403851,
+    "full bust_맞음": 0.39387706956667623,
+    "full bust_큼": 0.9437862203291812,
+    "straight & narrow_작음": 0.9472668522971179,
+    "straight & narrow_맞음": 0.3800816120502345,
+    "straight & narrow_큼": 0.9481397539644478,
+    "apple_작음": 0.9419604537860171,
+    "apple_맞음": 0.3972388085268167,
+    "apple_큼": 0.944094730465579
+  }
+}
